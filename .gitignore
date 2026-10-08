@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Fichiers temporaires
+*.swp
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# JARs Flink (à télécharger, voir README)
+*.jar
