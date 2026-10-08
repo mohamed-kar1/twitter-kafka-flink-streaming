@@ -1,0 +1,7 @@
+kafka-python
+tweepy
+python-dotenv
+rich
+pydoop
+apache-flink
+nltk
